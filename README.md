@@ -2,7 +2,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Discord%20Ticket%20System&fontSize=40&fontAlignY=35&desc=Advanced%20Support%20Solution%20•%20MongoDB%20•%20Discord.js%20v14&descSize=20&descAlignY=55&animation=fadeIn">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Discord%20Ticket%20System&fontSize=40&fontAlignY=35&desc=Powered%20By%20Ramkrishna&descSize=20&descAlignY=55&animation=fadeIn">
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7289da,100:2c2f33&height=200&section=header&text=Discord%20Ticket%20System&fontSize=40&fontAlignY=35&desc=Advanced%20Support%20Solution%20•%20MongoDB%20•%20Discord.js%20v14&descSize=20&descAlignY=55&animation=fadeIn">
     <img alt="Ticket System Banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header">
   </picture>
