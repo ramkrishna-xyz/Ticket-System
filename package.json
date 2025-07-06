@@ -1,0 +1,20 @@
+{
+  "name": "ticket-system",
+  "version": "1.0.0",
+  "description": "Advanced Discord Ticket Management Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "moment": "^2.29.4",
+    "mongoose": "^7.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
