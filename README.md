@@ -99,6 +99,6 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ---
 
-**Version:** 2.0.0  
-**Last Updated:** December 2023  
+**Version:** 1.7.2  
+**Last Updated:** July 2025 
 **Compatible with:** Discord.js v14, Node.js v16+  
