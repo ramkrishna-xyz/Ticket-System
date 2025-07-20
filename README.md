@@ -1,12 +1,3 @@
-
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Discord%20Ticket%20System&fontSize=40&fontAlignY=35&desc=Powered%20By%20Ramkrishna&descSize=20&descAlignY=55&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7289da,100:2c2f33&height=200&section=header&text=Discord%20Ticket%20System&fontSize=40&fontAlignY=35&desc=Advanced%20Support%20Solution%20•%20MongoDB%20•%20Discord.js%20v14&descSize=20&descAlignY=55&animation=fadeIn">
-    <img alt="Ticket System Banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header">
-  </picture>
-</div>
 # Ticket-System Documentation
 
 ## Introduction
@@ -145,12 +136,3 @@ Refer to the project’s `LICENSE` file for legal usage and distribution.
 
 Original author: [ramkrishna-xyz](https://github.com/ramkrishna-xyz)  
 Open for community contributions and issue reports via the GitHub repository.
-
-[1] https://github.com/ramkrishna-xyz/Ticket-System/tree/main
-[2] https://github.com/topics/ticketing-system
-[3] https://github.com/topics/ticket-system
-[4] https://www.reddit.com/r/linuxadmin/comments/ie4zf2/freelibre_ticket_systems/
-[5] https://www.reddit.com/r/selfhosted/comments/1cx35ol/ticket_system_or_todo_for_your_homelab/
-[6] https://github.com/TheBiochemic/tickets-rs
-[7] https://github.com/amrshah/Laravel-Support-Ticket-System
-[8] https://athene-forschung.unibw.de/doc/152416/152416.pdf
